@@ -1,0 +1,6 @@
+#jdbc driver
+#Mon Feb 26 17:09:25 KST 2024
+password=ohgiraffers
+driver=com.mysql.jdbc.Driver
+user=ohgiraffers
+url=jdbc\:mysql\://localhost/menu
